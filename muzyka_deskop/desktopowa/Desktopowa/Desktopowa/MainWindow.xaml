@@ -1,0 +1,53 @@
+﻿<Window x:Class="Desktopowa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MojeDźwięki, Wykonał:"
+        Height="300" Width="900"
+        Background="#2E8B57"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="220" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="120" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Button Grid.Column="0" Grid.RowSpan="2" Name="PreviousButton"
+                VerticalAlignment="Center" HorizontalAlignment="Center"
+                Click="PreviousButton_Click">
+            <Image Source="obraz3.png" Height="70" />
+        </Button>
+
+        <Image Grid.Column="1" Grid.Row="0" Source="obraz.png"
+               Width="200" Height="200" VerticalAlignment="Center" />
+
+        <StackPanel Grid.Column="2" Grid.Row="0" VerticalAlignment="Center">
+            <Label Name="ArtistLabel" Content="Artysta" FontSize="50" Foreground="White" />
+            <Label Name="TitleLabel" Content="Album" FontSize="30" FontStyle="Italic" Foreground="White" />
+            <StackPanel Orientation="Horizontal">
+                <Label Name="SongsLabel" Content="0 utworów" FontSize="20" Foreground="#61D918" />
+                <Label Name="YearLabel" Content="0" FontSize="20" Foreground="#61D918" Margin="20,0,0,0" />
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1"
+                    Orientation="Horizontal" Margin="40,0,0,15">
+            <Label Name="DownloadsLabel" Content="0" FontSize="20" Foreground="#61D918"
+                   VerticalAlignment="Center" />
+            <Button Name="DownloadButton" Content="Pobierz" FontSize="20" FontWeight="Bold"
+                    Background="#61D918" Margin="20,0,0,0" Padding="10,2"
+                    Click="DownloadButton_Click" />
+        </StackPanel>
+
+        <Button Grid.Column="3" Grid.RowSpan="2" Name="NextButton"
+                VerticalAlignment="Center" HorizontalAlignment="Center"
+                Click="NextButton_Click">
+            <Image Source="obraz2.png" Height="70" />
+        </Button>
+    </Grid>
+</Window>

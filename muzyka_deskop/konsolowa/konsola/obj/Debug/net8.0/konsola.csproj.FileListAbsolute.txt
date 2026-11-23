@@ -1,0 +1,14 @@
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.AssemblyInfo.cs
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.exe
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.deps.json
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.runtimeconfig.json
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0\konsola.pdb
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\refint\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.pdb
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\konsola.genruntimeconfig.cache
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0\ref\konsola.dll

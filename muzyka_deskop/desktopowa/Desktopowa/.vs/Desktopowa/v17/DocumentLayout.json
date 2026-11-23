@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|c:\\users\\filip\\desktop\\muzyka_deskop\\desktopowa\\desktopowa\\desktopowa\\desktopowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|solutionrelative:desktopowa\\desktopowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|c:\\users\\filip\\desktop\\muzyka_deskop\\desktopowa\\desktopowa\\desktopowa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|solutionrelative:desktopowa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|c:\\users\\filip\\desktop\\muzyka_deskop\\desktopowa\\desktopowa\\desktopowa\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|solutionrelative:desktopowa\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|c:\\users\\filip\\desktop\\muzyka_deskop\\desktopowa\\desktopowa\\desktopowa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1C7862E-898B-4776-AD3D-71850F686C69}|Desktopowa\\Desktopowa.csproj|solutionrelative:desktopowa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desktopowa",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\Desktopowa.csproj",
+              "RelativeDocumentMoniker": "Desktopowa\\Desktopowa.csproj",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\Desktopowa.csproj",
+              "RelativeToolTip": "Desktopowa\\Desktopowa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T16:42:37.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\Album.cs",
+              "RelativeDocumentMoniker": "Desktopowa\\Album.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\Album.cs",
+              "RelativeToolTip": "Desktopowa\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T16:43:11.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Desktopowa\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\MainWindow.xaml",
+              "RelativeToolTip": "Desktopowa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-23T16:40:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Desktopowa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\muzyka_deskop\\desktopowa\\Desktopowa\\Desktopowa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Desktopowa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T16:40:39.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

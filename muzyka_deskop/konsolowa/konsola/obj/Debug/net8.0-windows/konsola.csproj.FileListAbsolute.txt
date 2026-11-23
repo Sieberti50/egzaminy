@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0-windows\konsola.deps.json
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0-windows\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\bin\Debug\net8.0-windows\konsola.pdb
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.AssemblyInfo.cs
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\refint\konsola.dll
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\konsola.pdb
+C:\Users\filip\source\repos\konsola\konsola\obj\Debug\net8.0-windows\ref\konsola.dll
