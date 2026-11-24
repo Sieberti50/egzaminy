@@ -1,0 +1,6 @@
+System operacyjny: Windows 11
+Środowiska programistyczne: Visual Studio 2022 
+Języki programowania: C# (deskopowa i konsolowa) XAML (deskopowa)
+
+
+Screeny były ale nie ma pozdrawiam

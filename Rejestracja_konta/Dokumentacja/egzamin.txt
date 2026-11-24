@@ -1,0 +1,11 @@
+
+System operacyjny:Windows 11
+
+Środowiska programistyczne: Visual Studio (aplikacja konsolowa), Android Studio (aplikacja mobilna)
+
+Języki programowania: C# (aplikacja konsolowa), Java i XML (aplikacja mobilna)
+
+Emulowane urządzenie: Nexus 5X API 29 x86 (Android 10)
+
+
+screeny by były ale nie ma pozdrawiam

@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\bin\Debug\net8.0\SprawdzaniePesel.exe
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\bin\Debug\net8.0\SprawdzaniePesel.deps.json
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\bin\Debug\net8.0\SprawdzaniePesel.runtimeconfig.json
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\bin\Debug\net8.0\SprawdzaniePesel.dll
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\bin\Debug\net8.0\SprawdzaniePesel.pdb
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.AssemblyInfo.cs
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.dll
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\refint\SprawdzaniePesel.dll
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.pdb
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\SprawdzaniePesel.genruntimeconfig.cache
+C:\Users\filip\Desktop\paszport_deskop\kosolowa\SprawdzaniePesel\SprawdzaniePesel\obj\Debug\net8.0\ref\SprawdzaniePesel.dll
