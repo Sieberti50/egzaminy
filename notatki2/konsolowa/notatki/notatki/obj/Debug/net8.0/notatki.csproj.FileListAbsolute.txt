@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\bin\Debug\net8.0\notatki.exe
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\bin\Debug\net8.0\notatki.deps.json
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\bin\Debug\net8.0\notatki.runtimeconfig.json
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\bin\Debug\net8.0\notatki.dll
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\bin\Debug\net8.0\notatki.pdb
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.AssemblyInfo.cs
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.dll
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\refint\notatki.dll
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.pdb
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\notatki.genruntimeconfig.cache
+C:\Users\filip\Desktop\notatki2\konsolowa\notatki\notatki\obj\Debug\net8.0\ref\notatki.dll

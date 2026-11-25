@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\bin\Debug\net8.0\SzyfrCezaraKonsola.exe
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\bin\Debug\net8.0\SzyfrCezaraKonsola.deps.json
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\bin\Debug\net8.0\SzyfrCezaraKonsola.runtimeconfig.json
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\bin\Debug\net8.0\SzyfrCezaraKonsola.dll
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\bin\Debug\net8.0\SzyfrCezaraKonsola.pdb
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.AssemblyInfo.cs
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.dll
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\refint\SzyfrCezaraKonsola.dll
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.pdb
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\SzyfrCezaraKonsola.genruntimeconfig.cache
+C:\Users\filip\Desktop\szyfr_cezara\konsolowa\SzyfrCezaraKonsola\SzyfrCezaraKonsola\obj\Debug\net8.0\ref\SzyfrCezaraKonsola.dll

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F8FF"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notatki"
+        android:textColor="#0000CD"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/listaNotatek"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dodanie notatki"
+        android:textColor="#0000CD"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tytuł notatki: " />
+
+    <EditText
+        android:id="@+id/poleTytul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Treść notatki: " />
+
+    <EditText
+        android:id="@+id/poleTresc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/przyciskDodaj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DODAJ"
+        android:textColor="#0000CD" />
+
+</LinearLayout>

@@ -1,0 +1,3 @@
+System operacyjny: Windows 11
+Środowiska programistyczne: Visual Studio - c# - aplikacja konsolowa, Android Studio - Java i XML -  aplikacja mobilna
+

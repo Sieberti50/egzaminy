@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|c:\\users\\filip\\desktop\\szyfr_cezara\\konsolowa\\szyfrowaniedesktop\\szyfrowaniedesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|solutionrelative:szyfrowaniedesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|c:\\users\\filip\\desktop\\szyfr_cezara\\konsolowa\\szyfrowaniedesktop\\szyfrowaniedesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|solutionrelative:szyfrowaniedesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|c:\\users\\filip\\desktop\\szyfr_cezara\\konsolowa\\szyfrowaniedesktop\\szyfrowaniedesktop\\szyfrcezara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|solutionrelative:szyfrowaniedesktop\\szyfrcezara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|c:\\users\\filip\\desktop\\szyfr_cezara\\konsolowa\\szyfrowaniedesktop\\szyfrowaniedesktop\\szyfrowaniedesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4A039F1-E498-4914-8E9E-EAEC8B3E68D1}|SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj|solutionrelative:szyfrowaniedesktop\\szyfrowaniedesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SzyfrowanieDesktop",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj",
+              "RelativeDocumentMoniker": "SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj",
+              "RelativeToolTip": "SzyfrowanieDesktop\\SzyfrowanieDesktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T22:11:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SzyfrCezara.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\SzyfrCezara.cs",
+              "RelativeDocumentMoniker": "SzyfrowanieDesktop\\SzyfrCezara.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\SzyfrCezara.cs",
+              "RelativeToolTip": "SzyfrowanieDesktop\\SzyfrCezara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T22:09:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SzyfrowanieDesktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\MainWindow.xaml",
+              "RelativeToolTip": "SzyfrowanieDesktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T22:07:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SzyfrowanieDesktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\szyfr_cezara\\konsolowa\\SzyfrowanieDesktop\\SzyfrowanieDesktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SzyfrowanieDesktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T22:07:11.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

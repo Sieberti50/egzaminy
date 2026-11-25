@@ -1,0 +1,6 @@
+System operacyjny: Windows 11
+Środowisko programistyczne: Visual Studio 2022
+Język programowania: C#
+
+
+screeny by były ale nie ma

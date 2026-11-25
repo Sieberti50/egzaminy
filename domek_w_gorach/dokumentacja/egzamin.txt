@@ -1,0 +1,10 @@
+
+Autor: Filip Siebert
+
+System operacyjny:Windows 11
+
+Środowiska programistyczne:
+- Visual Studio - c# - aplikacja konsolowa
+- Android Studio - Java oraz XML – aplikacja mobilna
+
+Screeny były ale nie ma

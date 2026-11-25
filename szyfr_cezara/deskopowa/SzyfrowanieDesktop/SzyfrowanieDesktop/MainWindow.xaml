@@ -1,0 +1,37 @@
+﻿<Window x:Class="SzyfrowanieOkno.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Szyfrowanie. Wykonane przez Filip Siebert"
+        Width="800" Height="500"
+        Background="#5F9EA0">
+    <Canvas>
+        <Label Content="Podaj wartość klucza" Canvas.Left="15" Canvas.Top="10"
+               FontSize="18" Foreground="#FAEBD7"/>
+        <TextBox x:Name="poleKlucza" Canvas.Left="180" Canvas.Top="60"
+                 Width="60" Height="25"/>
+
+        <Label Content="Podaj tekst" Canvas.Left="15" Canvas.Top="110"
+               FontSize="18" Foreground="#FAEBD7"/>
+        <TextBox x:Name="poleTekstu" Canvas.Left="15" Canvas.Top="160"
+                 Width="330" Height="250"
+                 AcceptsReturn="True" TextWrapping="Wrap"/>
+
+        <Button x:Name="przyciskZaszyfruj" Content="Zaszyfruj"
+                Canvas.Left="365" Canvas.Top="270"
+                Width="70" Height="30" Background="#ADD8E6"
+                Click="PrzyciskZaszyfruj_Click"/>
+
+        <Label Content="Tekst zaszyfrowany" Canvas.Left="400" Canvas.Top="10"
+               FontSize="18" Foreground="#FAEBD7"/>
+        <Border Canvas.Left="415" Canvas.Top="60" Width="350" Height="320"
+                BorderBrush="#FAEBD7" BorderThickness="3" CornerRadius="25">
+            <TextBlock x:Name="poleZaszyfrowane" Margin="15"
+                       FontSize="14" Foreground="#F0F8FF" TextWrapping="Wrap"/>
+        </Border>
+
+        <Button x:Name="przyciskZapisz" Content="Zapisz szyfr w pliku"
+                Canvas.Left="470" Canvas.Top="395"
+                Width="220" Height="28" Background="#ADD8E6"
+                Click="PrzyciskZapisz_Click"/>
+    </Canvas>
+</Window>
